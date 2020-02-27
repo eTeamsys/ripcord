@@ -1,0 +1,7 @@
+{
+    "name": "eteamsys/ripcord",
+    "description": "Copy of https://github.com/poef/ripcord",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
