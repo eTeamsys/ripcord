@@ -1,6 +1,4 @@
 <?php
-
-namespace eteamsys\ripcord;
 /**
  * Ripcord is an easy to use XML-RPC library for PHP. 
  * @package Ripcord
