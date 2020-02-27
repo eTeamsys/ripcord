@@ -2,6 +2,11 @@
     "name": "eteamsys/ripcord",
     "description": "Copy of https://github.com/poef/ripcord",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "eteamsys\\ripcord\\": ""
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
